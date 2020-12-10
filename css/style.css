@@ -1,0 +1,54 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: 5px center;
+} 
+
+.logo{ 
+    width: 1px;
+    height: 1px;
+    padding: 1%;
+    text-align: start;
+}
+    
+.nav{
+    vertical-align: top-center;
+    width: 100%;
+  padding: 5%;
+}
+  
+
+.ul{   width: 100%;
+       margin-left: auto;
+}
+ 
+.heroImg{
+    height: 100px;
+    padding: 25px; 
+    text-align: center;  
+ }
+.background-color{
+    color: FF9D8E 30%;
+
+}        
+.content{
+    width: 200pm;
+    margin: 20px;
+}
+ .p{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }  
+.button{
+    text-align: right;
+}
+.footer{  
+    vertical-align: text-bottom;
+    background-color: FF9D8E;
+    padding: 0;
+}
+
+   .ul{
+    display: inline-block; 
+    vertical-align: bottom;
+    padding: 0;
+}  
